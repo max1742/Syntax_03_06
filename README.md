@@ -8,5 +8,3 @@ ein Kontaktformular.
 - CSS (Flexbox, Hover-Effekte)
 ## Weg
 Ich habe Weg [B] gewaehlt.
-## Notizen
-Schwierig ist eigenltich nur sich nicht zu vertippen.

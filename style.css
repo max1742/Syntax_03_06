@@ -120,3 +120,13 @@ footer {
         padding: 20px 15px;
     }
 }
+
+@media (min-width: 600px) {
+  header {
+    position: sticky;
+    top: 0;
+  }
+  section {
+    scroll-margin-top: 7rem;
+  }
+}
